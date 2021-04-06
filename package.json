@@ -27,6 +27,7 @@
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.9.1",
+    "keen-slider": "^5.4.0",
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
@@ -43,8 +44,10 @@
     "eslint-plugin-vue": "^7.7.0",
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
+    "node-sass": "^5.0.0",
     "prettier": "^2.2.1",
     "push-dir": "^0.4.1",
+    "sass-loader": "^10.1.1",
     "stylelint": "^13.12.0",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^21.0.0"
