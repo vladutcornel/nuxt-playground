@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/carousels/keen", {data:[{}],fetch:{},mutations:void 0});
