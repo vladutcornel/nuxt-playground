@@ -2,6 +2,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: "static",
 
+  router: {
+    base: "/nuxt-playground/",
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "nuxt-playground",
